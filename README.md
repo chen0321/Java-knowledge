@@ -28,6 +28,9 @@
      * [创建型](/design/)
      * [行为型](/design/)
  * [分布式架构](/distributed_framework)
-     * [分布式基础](/distributed_framework)
-     * [分布式选型](/distributed_framework)
+     * [注册与发现](/distributed_framework)
+     * [redis](/distributed_framework)
+     * [MQ](/distributed_framework)
+     * [MQ](/distributed_framework)
+     
     
